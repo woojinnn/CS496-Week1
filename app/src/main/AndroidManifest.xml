@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Week1">
         <activity
-            android:name=".ContactActivity"
+            android:name=".contact.ContactActivity"
             android:exported="false" />
         <activity
             android:name=".GalleryActivity"

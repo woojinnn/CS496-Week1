@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Week1">
         <activity
+            android:name=".contact.search.SearchContactActivity"
+            android:exported="false" />
+        <activity
+            android:name=".contact.AddProfile.AddProfileActivity"
+            android:exported="false" />
+        <activity
             android:name=".contact.detail.ProfileDetailActivity"
             android:exported="false" />
         <activity

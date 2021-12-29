@@ -14,13 +14,14 @@
         android:src="@color/black"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"/>
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
 
     <TextView
         android:id="@+id/tv_rv_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="이름"
+        android:text="Name"
         android:textStyle="bold"
         android:layout_marginLeft="20dp"
         android:textSize="24sp"
@@ -29,10 +30,10 @@
         app:layout_constraintTop_toTopOf="parent"/>
 
     <TextView
-        android:id="@+id/tv_rv_age"
+        android:id="@+id/tv_rv_number"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="나이"
+        android:text="Number"
         android:layout_marginTop="10dp"
         android:layout_marginLeft="20dp"
         android:textSize="18sp"

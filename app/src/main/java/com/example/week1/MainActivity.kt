@@ -3,7 +3,7 @@ package com.example.week1
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.week1.contact.ContactActivity
+import com.example.week1.contact.main.ContactActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

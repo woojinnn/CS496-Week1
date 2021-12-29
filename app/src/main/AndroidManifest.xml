@@ -13,7 +13,7 @@
             android:name=".ContactActivity"
             android:exported="false" />
         <activity
-            android:name=".GalleryActivity"
+            android:name=".gallery.GalleryActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
